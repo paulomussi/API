@@ -24,6 +24,12 @@ app.get('/usuarios', (req, res) => {
 app.listen(3000)
 
 /*
+    MongoDB
+    usuario: paulo
+    senha: 1234
+*/
+
+/*
     Criar nossa API de Usuários
 
     -Criar um usuário
