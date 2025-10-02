@@ -26,4 +26,9 @@ npx prisma studio ------Abrir interface do prisma
 
 npm create vite@latest
 
+# Biblioteca para requisões do servidor
+npm install axios
 
+# Biblioteca cors para ter acesso ao backend
+
+npm install cors
